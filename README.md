@@ -1,1 +1,21 @@
-# .github
+Hi, im a frontend dev, i work in HTML, CSS, TailwindCSS and Svelte.
+
+
+PGP Key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: BCPG v1.83
+
+xjMEaZbV0xYJKwYBBAHaRw8BAQdAF5oQLCqkmmcwQkFaBBjeexXNXvfv2cfd9Q2n
+9zCICOfNMUdhcmdsZWJsYXN0ZXJfUk1CSyA8R2FyZ2xlYmxhc3Rlci5STUJLQGdt
+YWlsLmNvbT7CjwQTFggANxYhBGzRy6cvB82oEs+YwSZfRMydcd3yBQJpltXTBQkH
+hM4AAhsDBAsJCAcFFQgJCgsFFgIDAQAACgkQJl9EzJ1x3fI4TQEAorugvnPIVSXS
+TCnsxg21JAJBOZCYHXDpdf3Edu/Vy3cBAIKb6gDNY+Wy65KZZqdxQwOM/G1/UxtW
+tgAydgf/C6ALzjgEaZbV0xIKKwYBBAGXVQEFAQEHQIki6ZcGXbLvfGFizouj+fn/
+weqs2/R2I7NFLAypTYp5AwEIB8J+BBgWCAAmFiEEbNHLpy8HzagSz5jBJl9EzJ1x
+3fIFAmmW1dMFCQeEzgACGwwACgkQJl9EzJ1x3fLAxAEAg2uKbfLB5w0E1ZMuofql
+sRsjqlVPxGGl5Q1LubRuxN4A/jBNQ9zqAdentehvVzVCiRgRcHoagrpt4jfjPzVD
+IGwA
+=ZcXz
+-----END PGP PUBLIC KEY BLOCK-----
+```
